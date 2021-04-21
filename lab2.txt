@@ -1,0 +1,16 @@
+Catalog-./
+ Name-1 | Size-22072
+ Name-lab2.txt | Size-0
+ Name-1.c | Size-2741
+ Name-a.out | Size-17512
+-File name with max size=a.out
+-Total Catalog Size=42325
+-Total Catalog File=4
+
+Catalog-./.vscode
+ Name-launch.json | Size-1024
+ Name-tasks.json | Size-677
+-File name with max size=tasks.json
+-Total Catalog Size=1701
+-Total Catalog File=2
+
